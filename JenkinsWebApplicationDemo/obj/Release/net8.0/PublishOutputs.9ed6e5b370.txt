@@ -1,0 +1,11 @@
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\JenkinsWebApplicationDemo.exe
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\JenkinsWebApplicationDemo.dll
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\JenkinsWebApplicationDemo.deps.json
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\JenkinsWebApplicationDemo.runtimeconfig.json
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\JenkinsWebApplicationDemo.pdb
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Uni_Semesters\Nam3\HK2\DevOps-ThayVu\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
